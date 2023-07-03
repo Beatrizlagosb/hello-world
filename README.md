@@ -1,5 +1,5 @@
 # hello-world
-Exercício de Casa :house:
+Exercício de Casa :house: Cubos Academy
 
 1. Crie um novo repositório no GitHub chamado hello-world
 2. Na sua máquina, abra o terminal e navegue até a pasta que você criou durante as aulas.
